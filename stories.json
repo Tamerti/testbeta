@@ -1,7 +1,10 @@
 [
    {
-        "imageurl" : "https://www.dropbox.com/s/kyl399pihi1fo42/123%D0%93%D0%93%D0%93.png?dl=1",
-        "title" : "МЫ В TELEGRAM",
-        "url" : "https://github.com/Parad1st/BlackRussiaSource"
+        "image" : "https://i.imgur.com/6ilKsGa.png",
+        "title" : "Подписывайтесь на нас в телеграм и следите за новостями!"
+   },
+   {
+        "image" : "https://i.imgur.com/tEfZI5z.png",
+        "title" : "Скидки -50% и уникальные товары в магазине только 2 дня! Больше информации в игре"
    }
 ]
