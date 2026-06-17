@@ -1,14 +1,18 @@
 [
     {
-      "x2": "",
-      "name": "test 01",
-      "online": 517,
+      "ip": "192.168.1.6",
+      "port": 7777,
+      "x2": true,
+      "name": "test 1",
+      "online": 837,
       "maxonline": 1000
-    },
+    }
     {
-      "x2": "",
-      "name": "test 02",
-      "online": 411,
+      "ip": "192.168.1.6",
+      "port": 7777,
+      "x2": true,
+      "name": "test 2",
+      "online": 836,
       "maxonline": 1000
     }
  ]
