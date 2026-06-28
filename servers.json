@@ -1,14 +1,20 @@
 [
     {
-      "x2": true,
-      "name": "test 1",
-      "online": 837,
-      "maxonline": 1000
+      "x2": "true",
+      "name": "Тестовый #1",
+      "online": 4,
+      "maxonline": 500
     },
     {
-      "x2": true,
-      "name": "test 2",
-      "online": 836,
+      "x2": "false",
+      "name": "Тестовый #2",
+      "online": 0,
+      "maxonline": 500
+    },
+    {
+      "x2": "false",
+      "name": "Тестовый #3",
+      "online": 0,
       "maxonline": 1000
     }
  ]
