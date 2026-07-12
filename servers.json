@@ -1,14 +1,18 @@
 [
     {
+      "ip": "142.132.203.47"
+      "port": 22664
       "x2": "true",
-      "name": "Тестовый #1",
+      "name": "test nha #1",
       "online": 4,
       "maxonline": 500
     },
     {
+      "ip": "142.132.203.47"
+      "port": 22664
       "x2": "false",
-      "name": "Тестовый #2",
-      "online": 0,
+      "name": "test nha #2",
+      "online": 4,
       "maxonline": 500
     },
     {
