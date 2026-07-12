@@ -1,7 +1,7 @@
 [
     {
       "ip": "142.132.203.47"
-      "port": 22664
+      "port": 22664,
       "x2": "true",
       "name": "test nha #1",
       "online": 4,
@@ -9,7 +9,7 @@
     },
     {
       "ip": "142.132.203.47"
-      "port": 22664
+      "port": 22664,
       "x2": "false",
       "name": "test nha #2",
       "online": 4,
