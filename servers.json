@@ -1,24 +1,32 @@
 [
-    {
-      "ip": "142.132.203.47",
-      "port": 22664,
-      "x2": "true",
-      "name": "test nha #1",
-      "online": 4,
-      "maxonline": 500
-    },
-    {
-      "ip": "142.132.203.47",
-      "port": 22664,
-      "x2": "false",
-      "name": "test nha #2",
-      "online": 4,
-      "maxonline": 500
-    },
-    {
-      "x2": "false",
-      "name": "Тестовый #3",
-      "online": 0,
-      "maxonline": 1000
-    }
- ]
+  {
+    "serverId": 1,
+    "ip": "142.132.203.47",
+    "port": "22664",
+    "serverName": "Local Server",
+    "onlinePlayers": 25,
+    "maxPlayers": 100,
+    "isAvailable": true,
+    "description": "Máy chủ thử nghiệm."
+  },
+  {
+    "serverId": 2,
+    "ip": "142.132.203.47",
+    "port": "22664",
+    "serverName": "test 2",
+    "onlinePlayers": 86,
+    "maxPlayers": 500,
+    "isAvailable": true,
+    "description": "Máy chủ Roleplay."
+  },
+  {
+    "serverId": 3,
+    "ip": "play.example.com",
+    "port": "7778",
+    "serverName": "Freeroam",
+    "onlinePlayers": 0,
+    "maxPlayers": 200,
+    "isAvailable": false,
+    "description": "Máy chủ đang bảo trì."
+  }
+]
