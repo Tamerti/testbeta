@@ -1,22 +1,17 @@
 [
-   {
-        "image" : "https://sun9-78.userapi.com/s/v1/if2/rxeHKW9ytcQBxPPoOerDgpBrvRu__f-CcZhgqBhmszri7FcUeJd91TgjDDd1A-ZLZRRpOltDBhxXJEAO26KrEJXr.jpg?quality=96&as=32x15,48x22,72x33,108x50,160x74,240x111,360x166,480x222,540x249,640x295,720x332,1080x498,1280x591,1440x665,2340x1080&from=bu&cs=2340x0",
-        "title" : "Обновление 1.7.4"
-   },
-   {
-        "image" : "https://sun9-78.userapi.com/s/v1/if2/TddwVQcqIBcXEqSpo_8jkE37rLxQWZlCjIR0c_hLlbFc7KgR1j9TnD6n5a0UJrHpP1SI-gx-QUgiDhUaxEUKV2vX.jpg?quality=96&as=32x15,48x22,72x33,108x50,160x74,240x111,360x166,480x222,540x249,640x295,720x332,1080x498,1280x591,1440x665,2340x1080&from=bu&cs=2340x0",
-        "title" : "Теперь еще больше стабильности"
-   },
-   {
-        "image" : "https://sun9-7.userapi.com/s/v1/if2/vagld8_mOP4twVvonM0knPK9Fw9kRdheBLiIfua1xMGIdCXrvnn3FILvAEQDGsrSXsnpmWsT3B2WCtD7OQqqBGwp.jpg?quality=96&as=32x15,48x22,72x33,108x50,160x74,240x111,360x166,480x222,540x249,640x295,720x332,1080x498,1280x591,1440x665,2340x1080&from=bu&cs=2340x0",
-        "title" : "Играй вместе с нами на тест сервере"
-   },
-   {
-        "image" : "https://sun9-1.userapi.com/s/v1/if2/jcSNDYbqynQCOkftpaSZiodrjj5JlzbNW25ynA0M5Av1nRZekV9yRiG30-Uzq2TJ9wgDD3zJUaXvsqwkDzMFISTG.jpg?quality=96&as=32x15,48x22,72x33,108x50,160x74,240x111,360x166,480x222,540x249,640x295,720x332,1080x498,1280x591,1440x665,2340x1080&from=bu&u=laqLn0oQqeO32EjF01fmFjuGMMxoYSgTkvvjsLmAPfY&cs=640x0",
-        "title" : "Скоро будет доступен вход с ПК"
-   },
-   {
-        "image" : "https://sun9-56.userapi.com/impg/CoYDeEZ3mqP_hFiZvGpluw6ijQ3pTvoJY_x53g/Xj_8VcPVVtI.jpg?size=1280x720&quality=96&sign=8582d91219b7634f5033364cbf5deafe&c_uniq_tag=z6FEUnXkxOFJ5FKbUR790Kacw6IQrSRd3kYJ4c4016c&type=album",
-        "title" : "Крутая новость!"
-   }
+  {
+    "imageurl": "https://example.com/images/news1.jpg",
+    "title": "Chào mừng đến với máy chủ",
+    "url": "https://example.com/news/1"
+  },
+  {
+    "imageurl": "https://example.com/images/news2.jpg",
+    "title": "Cập nhật phiên bản 1.1",
+    "url": "https://example.com/news/2"
+  },
+  {
+    "imageurl": "https://example.com/images/news3.jpg",
+    "title": "Sự kiện cuối tuần",
+    "url": "https://example.com/news/3"
+  }
 ]
